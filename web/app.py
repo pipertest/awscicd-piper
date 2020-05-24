@@ -10,7 +10,7 @@ def mainmenu():
     <html>
     <body>
     <center><h1>Hello World! from AWS CodeDeploy.</h1><br/>
-	<h2>my name is Hiroki</h2>
+	<h2>my name is Takahashi</h2>
     </body>
     </html>"""
 
